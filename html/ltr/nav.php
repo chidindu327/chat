@@ -4,32 +4,7 @@
             <i class="mdi mdi-dots-horizontal"></i>
             <span class="hide-menu">Personal</span>
         </li>
-        <li class="sidebar-item">
-            <a class="sidebar-link has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false">
-                <i class="mdi mdi-av-timer"></i>
-                <span class="hide-menu">Dashboard </span>
-                <span class="badge badge-pill badge-info ml-auto m-r-15">3</span>
-            </a>
-            <ul aria-expanded="false" class="collapse  first-level">
-                <li class="sidebar-item">
-                    <a href="index.php" class="sidebar-link">
-                        <i class="mdi mdi-adjust"></i>
-                        <span class="hide-menu"> Classic </span>
-                    </a>
-                </li>
-                <li class="sidebar-item">
-                    <a href="index2.php" class="sidebar-link">
-                        <i class="mdi mdi-adjust"></i>
-                        <span class="hide-menu"> Analytical </span>
-                    </a>
-                </li>
-                <li class="sidebar-item">
-                    <a href="index3.php" class="sidebar-link">
-                        <i class="mdi mdi-adjust"></i>
-                        <span class="hide-menu"> Modern </span>
-                    </a>
-                </li>
-            </ul>
+        
 
 
         <li class="sidebar-item">
@@ -39,7 +14,7 @@
             </a>
             <ul aria-expanded="false" class="collapse  first-level">
                 <li class="sidebar-item">
-                    <a href="app-chats.php" class="sidebar-link">
+                    <a href="chats.php" class="sidebar-link">
                         <i class="ti-comment"></i>
                         <span class="hide-menu"> Chats Apps </span>
                     </a>
