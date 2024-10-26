@@ -63,9 +63,9 @@
                             <!-- Logo text -->
                             <span class="logo-text">
                                 <!-- dark Logo text -->
-                                <img src="../../assets/images/logo-text.png" alt="homepage" class="dark-logo" />
+                                <!-- <img src="../../assets/images/logo-text.png" alt="homepage" class="dark-logo" /> -->
                                 <!-- Light Logo text -->
-                                <img src="../../assets/images/logo-light-text.png" class="light-logo" alt="homepage" />
+                                <!--  <img src="../../assets/images/logo-light-text.png" class="light-logo" alt="homepage" /> -->
                             </span>
                         </a>
                         <a class="sidebartoggler d-none d-md-block" href="javascript:void(0)" data-sidebartype="mini-sidebar">
